@@ -17,6 +17,5 @@ def main():
     m = (y2 - y1) / (x2 - x1)
     print("Pendiente:", m)
 
-    pass
 if __name__ == '__main__':
     main()
